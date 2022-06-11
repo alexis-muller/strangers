@@ -1,0 +1,8 @@
+Pages I need
+
+*Login Page
+*Register Page
+*Posts Page
+*Single Post
+*Add Post Page
+*Add Profile Page
