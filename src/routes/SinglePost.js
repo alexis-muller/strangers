@@ -32,4 +32,3 @@ const SinglePost = ({ token }) => {
 };
 
 export default SinglePost;
-//random comment.
