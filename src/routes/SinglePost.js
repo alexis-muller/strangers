@@ -32,5 +32,4 @@ const SinglePost = ({ token }) => {
 };
 
 export default SinglePost;
-asdfsf;
 //random comment.
